@@ -1,4 +1,3 @@
-[# skillrise
 # 🚀 SkillRise
 
 SkillRise is a web-based learning and skill development platform designed to help users enhance their technical and professional skills through structured learning paths, resources, and practice modules.
